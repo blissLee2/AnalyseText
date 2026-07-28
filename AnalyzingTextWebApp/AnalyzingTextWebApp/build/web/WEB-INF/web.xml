@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <servlet>
+        <servlet-name>AddTextServlet</servlet-name>
+        <servlet-class>za.ac.tut.web.AddTextServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>DisplayAnalysisReportServlet</servlet-name>
+        <servlet-class>za.ac.tut.web.DisplayAnalysisReportServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>AddAnalysisServlet</servlet-name>
+        <servlet-class>za.ac.tut.web.AddAnalysisServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AddTextServlet</servlet-name>
+        <url-pattern>/AddTextServlet.do</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>DisplayAnalysisReportServlet</servlet-name>
+        <url-pattern>/DisplayAnalysisReportServlet.do</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>AddAnalysisServlet</servlet-name>
+        <url-pattern>/AddAnalysisServlet.do</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+</web-app>

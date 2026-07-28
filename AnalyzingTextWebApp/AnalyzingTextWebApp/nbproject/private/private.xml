@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/tsheg/Downloads/AnalyzingTextWebApp/AnalyzingTextWebApp/web/add_analysis_outcome.jsp</file>
+            <file>file:/C:/Users/tsheg/Downloads/AnalyzingTextWebApp/AnalyzingTextWebApp/src/java/za/ac/tut/model/bl/TextFacadeLocal.java</file>
+            <file>file:/C:/Users/tsheg/Downloads/AnalyzingTextWebApp/AnalyzingTextWebApp/src/java/za/ac/tut/model/bl/TextFacade.java</file>
+            <file>file:/C:/Users/tsheg/Downloads/AnalyzingTextWebApp/AnalyzingTextWebApp/web/longest_text_analysis_outcome.jsp</file>
+            <file>file:/C:/Users/tsheg/Downloads/AnalyzingTextWebApp/AnalyzingTextWebApp/web/text_analysis_outcome.jsp</file>
+            <file>file:/C:/Users/tsheg/Downloads/AnalyzingTextWebApp/AnalyzingTextWebApp/src/java/za/ac/tut/web/AddTextServlet.java</file>
+            <file>file:/C:/Users/tsheg/Downloads/AnalyzingTextWebApp/AnalyzingTextWebApp/src/java/za/ac/tut/model/entity/Text.java</file>
+            <file>file:/C:/Users/tsheg/Downloads/AnalyzingTextWebApp/AnalyzingTextWebApp/web/enter_text.html</file>
+            <file>file:/C:/Users/tsheg/Downloads/AnalyzingTextWebApp/AnalyzingTextWebApp/src/java/za/ac/tut/model/bl/AbstractFacade.java</file>
+            <file>file:/C:/Users/tsheg/Downloads/AnalyzingTextWebApp/AnalyzingTextWebApp/web/display_analysis_report.html</file>
+            <file>file:/C:/Users/tsheg/Downloads/AnalyzingTextWebApp/AnalyzingTextWebApp/src/java/za/ac/tut/web/AddAnalysisServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
